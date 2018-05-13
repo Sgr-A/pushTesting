@@ -2,4 +2,6 @@ grant is a bungus
 new line
 second line after first line
 lets go git it!!
+This is another practice line
+also if anyone sees this, then please commit to it as well, I am learning git and trying out the commands
 
