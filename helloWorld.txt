@@ -5,3 +5,4 @@ lets go git it!!
 This is another practice line
 also if anyone sees this, then please commit to it as well, I am learning git and trying out the commands
 
+you need to add me as contributor in order for me to commit directly.
